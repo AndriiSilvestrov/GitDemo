@@ -24,7 +24,9 @@ class ViewController: UIViewController {
     let stepThree = 3
       
     let finalStep = 1
-    let finalStepRealy = 1
+    let finalStepReally = 1
+    let finalStepReallyReallyReally = 1
+
 
 }
 
