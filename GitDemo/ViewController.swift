@@ -17,6 +17,11 @@ class ViewController: UIViewController {
 
     var stepOne = 1
     let stepTwo = 2
+    
+    let stepTwoPointOne = 2.1
+    let stepTwoPointTwo = 2.2
+    let stepTwoPointThree = 2.3
+    
     let stepThree = 3
 
 }
