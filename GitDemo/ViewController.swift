@@ -20,11 +20,10 @@ class ViewController: UIViewController {
     
     let stepTwoPointOne = 2.1
     let stepTwoPointTwo = 2.2
-    let stepTwoPointThree = 2.3
     
     let stepThree = 3
-    
-    let idChange = 123
+      
+    let finalStep = 1
 
 }
 
