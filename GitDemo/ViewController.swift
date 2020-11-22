@@ -20,6 +20,7 @@ class ViewController: UIViewController {
     
     let stepTwoPointOne = 2.1
     let stepTwoPointTwo = 2.2
+    let stepTwoPointThree = 2.3
     
 }
 
