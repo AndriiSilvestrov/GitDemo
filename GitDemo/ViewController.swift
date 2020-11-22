@@ -17,6 +17,7 @@ class ViewController: UIViewController {
 
     var stepOne = 1
     let stepTwo = 2
+    let stepThree = 3
 
 }
 
