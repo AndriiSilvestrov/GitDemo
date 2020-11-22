@@ -17,13 +17,15 @@ class ViewController: UIViewController {
 
     var stepOne = 1
     let stepTwo = 2
+<<<<<<< HEAD
+    let stepThree = 3
+
+=======
     
     let stepTwoPointOne = 2.1
+    let stepTwoPointTwo = 2.2
     let stepTwoPointThree = 2.3
     
-      
-    let finalStepReallyReallyReally = 1
-
-
+>>>>>>> bugFix100
 }
 
